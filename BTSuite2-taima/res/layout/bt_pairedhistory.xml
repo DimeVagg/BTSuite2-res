@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_horizontal" android:layout_gravity="top" android:orientation="horizontal" android:id="@id/btn_power_layout" android:layout_width="fill_parent" android:layout_height="54.0dip">
+        <Button android:textSize="18.0dip" android:textColor="@color/btn_textview" android:layout_gravity="center" android:id="@id/btn_open_bt" android:background="@drawable/btn_180_50_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/open_bt_string" />
+        <ToggleButton android:textSize="18.0dip" android:textColor="@color/btn_textview" android:layout_gravity="center" android:id="@id/btn_discovery_bt" android:background="@drawable/btn_toggle_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="5.0dip" android:checked="false" android:textOn="@string/indiscovery_bt_string" android:textOff="@string/discovery_bt_string" android:layout_toRightOf="@id/btn_open_bt" />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="horizontal" android:background="@drawable/bg_rounded_rectangle" android:padding="6.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginTop="56.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+        <RelativeLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="412.0dip" android:layout_height="fill_parent">
+            <RelativeLayout android:id="@id/rl_title_t" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:id="@id/paired_devices_title" android:background="#80000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/paired_devices_string" />
+                <ImageButton android:id="@id/paired_devices_btn_t" android:background="@drawable/paired_devices_btn_t" android:layout_width="16.0dip" android:layout_height="16.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="8.0dip" android:layout_alignParentRight="true" />
+            </RelativeLayout>
+            <ListView android:id="@id/bluetooth_paired_devices" android:padding="-2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@null" android:divider="#ff5b5556" android:dividerHeight="1.0dip" android:choiceMode="singleChoice" android:layout_weight="1.0" android:layout_below="@id/rl_title_t" />
+            <RelativeLayout android:id="@id/rl_title_b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/bluetooth_paired_devices">
+                <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:id="@id/usable_devices_title" android:background="#80000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="@string/usable_devices_string" />
+                <ImageButton android:id="@id/paired_devices_btn_b" android:background="@drawable/paired_devices_btn_t" android:layout_width="16.0dip" android:layout_height="16.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="8.0dip" android:layout_alignParentRight="true" />
+            </RelativeLayout>
+            <ListView android:id="@id/bluetooth_usable_devices" android:padding="-2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@null" android:cacheColorHint="#00000000" android:divider="#ff5b5556" android:dividerHeight="1.0dip" android:choiceMode="singleChoice" android:layout_weight="1.0" android:layout_below="@id/rl_title_b" />
+        </RelativeLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="426.0dip" android:layout_marginRight="10.0dip">
+            <ImageButton android:id="@id/btn_scan_bt" android:background="#00000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:src="@xml/bt_pairedhistory_scan" />
+            <ImageButton android:id="@id/btn_connect_bt" android:background="#00000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:src="@xml/bt_pairedhistory_connect" />
+            <ImageButton android:id="@id/btn_disconnect_bt" android:background="#00000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:src="@xml/bt_pairedhistory_disconnect" />
+            <ImageButton android:id="@id/btn_unpair_bt" android:background="#00000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:src="@xml/bt_pairedhistory_delete" />
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/scan_device_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="170.0dip" android:layout_marginTop="140.0dip">
+        <ProgressBar android:id="@id/progressbar_scan_device" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/blue_progressbar" />
+        <TextView android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/str_download_phonebook" />
+    </LinearLayout>
+</FrameLayout>

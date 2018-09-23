@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTheme.NoTitleBar.CustomBackground" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+    <style name="Dialog_Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Animations" />
+    <style name="Animations.PopDownMenu" parent="@style/Animations" />
+    <style name="Animations.PopDownMenu.Center" parent="@style/Animations.PopDownMenu">
+        <item name="android:windowEnterAnimation">@anim/grow_from_top</item>
+        <item name="android:windowExitAnimation">@anim/shrink_from_bottom</item>
+    </style>
+    <style name="Animations.PopUpMenu" parent="@style/Animations" />
+    <style name="Animations.PopUpMenu.Center" parent="@style/Animations.PopUpMenu">
+        <item name="android:windowEnterAnimation">@anim/grow_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/shrink_from_top</item>
+    </style>
+</resources>

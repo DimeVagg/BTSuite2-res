@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="bottom" android:orientation="vertical" android:id="@id/sms_item" android:paddingLeft="10.0dip" android:paddingBottom="1.0dip" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="32.0dip" android:textColor="#ffffffff" android:id="@id/item_contact" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textSize="32.0dip" android:id="@id/item_type" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="32.0dip" android:textColor="#ffffffff" android:id="@id/item_content" android:layout_width="550.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:singleLine="true" />
+        <TextView android:textSize="32.0dip" android:textColor="#ffffffff" android:id="@id/item_date" android:layout_width="202.0dip" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

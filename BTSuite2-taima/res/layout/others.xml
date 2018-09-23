@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:background="@drawable/bt_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip">
+            <Button android:textSize="28.0dip" android:textColor="@color/btn_textview" android:layout_gravity="center" android:id="@id/btn_open_bt" android:background="@drawable/btn_180_50_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/open_bt_string" />
+            <Button android:textSize="28.0dip" android:textColor="@color/btn_textview" android:layout_gravity="center" android:id="@id/btn_scan_bt" android:background="@drawable/btn_180_50_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/scan_btdevice_string" />
+            <ToggleButton android:textSize="28.0dip" android:textColor="@color/btn_textview" android:layout_gravity="center" android:id="@id/btn_autoanswer_bt" android:background="@drawable/btn_toggle_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:checked="false" android:textOn="@string/non_autoanswer_bt_string" android:textOff="@string/autoanswer_bt_string" />
+            <ToggleButton android:textSize="28.0dip" android:textColor="@color/btn_textview" android:gravity="center" android:id="@id/btn_autoconnect_bt" android:background="@drawable/btn_toggle_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:checked="false" android:textOn="@string/non_autoconnect_bt_string" android:textOff="@string/autoconnect_bt_string" />
+            <ToggleButton android:textSize="28.0dip" android:textColor="@color/btn_textview" android:layout_gravity="center" android:id="@id/btn_discovery_bt" android:background="@drawable/btn_toggle_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:checked="false" android:textOn="@string/indiscovery_bt_string" android:textOff="@string/discovery_bt_string" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/scan_device_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:id="@id/progressbar_scan_device" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/blue_progressbar" />
+        <TextView android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/str_download_phonebook" />
+    </LinearLayout>
+</FrameLayout>

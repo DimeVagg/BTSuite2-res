@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:background="@drawable/bt_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip">
+            <Button android:textSize="28.0dip" android:id="@id/btn_pause" android:background="@drawable/btn_180_50_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bt_phonebook_pause_string" />
+            <Button android:textSize="28.0dip" android:id="@id/btn_synchronize" android:background="@drawable/btn_180_50_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="@string/bt_phonebook_syn_string" />
+            <Button android:textSize="28.0dip" android:id="@id/btn_sms_readed" android:background="@drawable/btn_180_50_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="@string/bt_sms_readed" />
+            <Button android:textSize="28.0dip" android:id="@id/btn_sms_unread" android:background="@drawable/btn_180_50_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="@string/bt_sms_unread" />
+            <Button android:textSize="28.0dip" android:id="@id/btn_sms_draft" android:background="@drawable/btn_180_50_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="@string/bt_sms_draft" />
+            <Button android:textSize="28.0dip" android:id="@id/btn_sms_sented" android:background="@drawable/btn_180_50_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="@string/bt_sms_sented" />
+        </LinearLayout>
+        <ListView android:id="@id/sms_listview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="28.0dip" android:cacheColorHint="#00000000" android:divider="#ff5b5556" android:dividerHeight="1.0dip" android:choiceMode="singleChoice" android:layout_weight="1.0" android:fastScrollEnabled="true" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/LinearLayout_download_sms" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:id="@id/progressbar_download_sms" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/blue_progressbar" />
+        <TextView android:textSize="28.0dip" android:textColor="#ffff0000" android:id="@id/tv_download_sms_text" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</FrameLayout>

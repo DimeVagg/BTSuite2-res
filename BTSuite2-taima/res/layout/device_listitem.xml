@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center" android:id="@id/device_backimage" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/bt_device_highlight" android:adjustViewBounds="true" />
+    <LinearLayout android:orientation="vertical" android:id="@id/device_item" android:paddingLeft="10.0dip" android:paddingBottom="1.0dip" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:ellipsize="end" android:id="@id/item_remote_device_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:id="@id/item_remote_connect_status" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:textSize="10.0dip" android:id="@id/item_remote_device_macaddr" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </LinearLayout>
+</FrameLayout>

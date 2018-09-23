@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@drawable/bg_rounded_rectangle" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="400.0dip" android:layout_height="fill_parent">
+            <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <Button android:id="@id/btn_received" android:background="@xml/bg_callhistory_callin_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" />
+                <Button android:id="@id/btn_dialed" android:background="@xml/bg_callhistory_callout_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" />
+                <Button android:id="@id/btn_missed" android:background="@xml/bg_callhistory_misscall_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" />
+                <Button android:id="@id/btn_history_all" android:background="@xml/bg_callhistory_allcall_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" />
+            </LinearLayout>
+            <ListView android:id="@id/history_listview" android:background="#80000000" android:padding="-2.0dip" android:layout_width="400.0dip" android:layout_height="fill_parent" android:layout_marginTop="3.0dip" android:layout_marginBottom="1.0dip" android:listSelector="@null" android:cacheColorHint="#00000000" android:divider="#ff5b5556" android:dividerHeight="1.0dip" android:choiceMode="singleChoice" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="420.0dip" android:layout_marginRight="10.0dip">
+            <Button android:id="@id/bt_callhistory_call" android:background="@drawable/callhistory_call_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_weight="1.0" />
+            <Button android:id="@id/bt_callhistory_syn" android:background="@drawable/callhistory_sync_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_weight="1.0" />
+            <Button android:id="@id/bt_callhistory_pause" android:background="@drawable/callhistory_pause_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.0dip" android:layout_weight="1.0" />
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/download_callhistory_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="170.0dip" android:layout_marginTop="140.0dip">
+        <RelativeLayout android:gravity="center_horizontal" android:background="@drawable/download_tip_bg" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ProgressBar android:id="@id/progressbar_download_callhistory" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/blue_progressbar" android:layout_centerVertical="true" />
+            <TextView android:id="@id/tv_download_callhistory_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_download_history" android:layout_toRightOf="@id/progressbar_download_callhistory" android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>

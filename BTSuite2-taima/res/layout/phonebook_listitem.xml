@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center" android:id="@id/phonebook_backimage" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/bt_phonebook_highlight" android:adjustViewBounds="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/phonebook_item" android:paddingLeft="5.0dip" android:paddingBottom="1.0dip" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="30.0dip">
+        <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:ellipsize="end" android:id="@id/item_phonebook_name" android:layout_width="250.0dip" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:singleLine="true" />
+        <TextView android:textSize="12.0dip" android:textColor="#ffffffff" android:ellipsize="end" android:id="@id/item_phonebook_number" android:layout_width="130.0dip" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/LinearLayout_reading_sms" android:background="@drawable/bt_background" android:layout_width="480.0dip" android:layout_height="296.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="28.0dip" android:id="@id/tv_item_contact" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+            <TextView android:textSize="28.0dip" android:id="@id/tv_item_date" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:singleLine="true" />
+        </LinearLayout>
+        <ImageButton android:id="@id/btn_exit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="1.0dip" android:src="@drawable/ic_sms_return_f" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <TextView android:textSize="28.0dip" android:id="@id/tv_item_type" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+    <TextView android:textSize="28.0dip" android:id="@id/tv_item_content" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

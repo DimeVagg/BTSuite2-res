@@ -1,0 +1,912 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+
+Name: res/layout/bt_tab_layout.xml
+SHA1-Digest: 5VE8i2DypDVxLDCZLBewdQ8PcSs=
+
+Name: res/drawable/callhistory_pause_btn.xml
+SHA1-Digest: EqYaH1h4ZrwYX9n+JagVRLv4bvA=
+
+Name: res/drawable/quickcontact_bottom_frame.9.png
+SHA1-Digest: 01NLc0LvtWs8crW7QEhULp87dJk=
+
+Name: res/drawable/btn_callhistory_callin.png
+SHA1-Digest: VzfV1vZKpsFVXfn6hg8VTJcHmHk=
+
+Name: res/drawable/bt_music_view.png
+SHA1-Digest: GhICOsI0vB9k0WsgyjZ2aJwk984=
+
+Name: res/drawable/btn_5.png
+SHA1-Digest: 1i3ARePoBFXlK8FW5+pFPtkeuzM=
+
+Name: res/drawable/btnicon_prev.png
+SHA1-Digest: 0//w3yscrsw7g29MhGSYpv/bh8k=
+
+Name: res/anim/grow_from_top.xml
+SHA1-Digest: o+tcNIkauYdQlVxqsPAUTmaOlAQ=
+
+Name: res/xml/bg_dialpad_btn.xml
+SHA1-Digest: 7RdC2J+P0Dtqmeud93aFtY5TU40=
+
+Name: res/layout/sms_listitem.xml
+SHA1-Digest: BreTycKRigwi03gXprOxYuBLrsY=
+
+Name: res/drawable/bt_dialpad_btn_press.png
+SHA1-Digest: YDsDrU3qi59bSpA2jS05FDm/H+A=
+
+Name: res/drawable/ic_call_log_header_incoming_call.png
+SHA1-Digest: GQPNsbDO9XtpJE+BWRhJBBPA4Pk=
+
+Name: res/drawable/bt_music_next.xml
+SHA1-Digest: ja8tSzZsVZo545O0V9VulUaGxFc=
+
+Name: res/drawable/btn_7.png
+SHA1-Digest: ZQ7hWTc17vIao+aGHc5On0r/Pno=
+
+Name: res/drawable/paired_devices_btn_t.xml
+SHA1-Digest: 9Byk+3XLUTmJXXvzUYLKcdNMkWk=
+
+Name: res/drawable/btn_8.png
+SHA1-Digest: 8idOIQA0oFcWTEclGB2iagAWX18=
+
+Name: res/drawable/yika_back_n.png
+SHA1-Digest: zHrORC/Gje4tkA74+Ek20Nlazoo=
+
+Name: res/drawable/music_ctrlbg.png
+SHA1-Digest: kwaHKmpNrn6P5O8JgT+lJuHsq6Q=
+
+Name: res/drawable/main_bg.png
+SHA1-Digest: ExoUzJYbMFQaYePrwdXQuYQjPhk=
+
+Name: res/drawable/home_d.png
+SHA1-Digest: o1M67oZG9csALSLmU/w8GPMbbxY=
+
+Name: res/xml/bg_callhistory_callout_btn.xml
+SHA1-Digest: LT/f3YzwTGgyU/wb14P9v0OBEJQ=
+
+Name: res/drawable/btn_5_2.png
+SHA1-Digest: oKPWJj2w4X/VH2wyra7BAeHYW58=
+
+Name: res/anim/grow_from_bottom.xml
+SHA1-Digest: 1FvLuFJZYhNR8cR7vlaM49pWqoY=
+
+Name: res/drawable/btn_1_2.png
+SHA1-Digest: 59szNIZHkwRIXmlFQg8E0JWMmCk=
+
+Name: res/layout/bt_pairedhistory.xml
+SHA1-Digest: tIp2xBzQzsfdgqP/o6Yv1+/jWOk=
+
+Name: res/drawable/home_n.png
+SHA1-Digest: 1kbedE3bkCSfEESDG2ijj93JM9c=
+
+Name: res/layout/bt_reading_sms.xml
+SHA1-Digest: UZrdoNeXHfzsYJgJaMw2aXJdgeQ=
+
+Name: res/drawable/recall_2.png
+SHA1-Digest: 6XJTkHeta8yilfUtyftU4o6GXGA=
+
+Name: res/drawable/bt_toggle_uncheck.png
+SHA1-Digest: xcGg8iWtauce21Oaz20z5vACfIs=
+
+Name: res/layout/bt_edit_namepin.xml
+SHA1-Digest: fHAHMtIQ9jkIs8hHBysujrLkP4U=
+
+Name: res/drawable/btnicon_disconnect_2.png
+SHA1-Digest: VWbiPpKVWNONvFNxHF0RIuleMfE=
+
+Name: res/xml/bt_pairedhistory_scan.xml
+SHA1-Digest: EIe61heX2Tay4xd42P9przjnUy8=
+
+Name: res/drawable/bt_history_d.png
+SHA1-Digest: n4Ofb/HbjP0eKAOKueE1jyg+K80=
+
+Name: res/drawable/bg_tab.png
+SHA1-Digest: uAxCtr0OUVKH7cENCR9mO/g0yTg=
+
+Name: res/drawable/btn_phonebook_play_disable.png
+SHA1-Digest: 9mZTd8GBxijas5QI7qodfVlRwHE=
+
+Name: res/drawable/quickcontact_slider_grip_left.png
+SHA1-Digest: TF4Hrqt0/ybdVAcxIjFUhPN6Ais=
+
+Name: res/drawable/yika_back_d.png
+SHA1-Digest: q6o7BkQUuiRHqy3PmRipHxypgDM=
+
+Name: res/drawable/bt_dial_btn_d.png
+SHA1-Digest: Anu+1kUIVoIsviXEimMpyjrHYGc=
+
+Name: res/anim/shrink_from_top.xml
+SHA1-Digest: Ihx4L32rSDI5Jvg7YAwJyHx5Uzg=
+
+Name: res/layout/action_item.xml
+SHA1-Digest: Syu1QEDf0UuIjG0SUMLNtVOV2Q8=
+
+Name: res/drawable/btn_4_2.png
+SHA1-Digest: s3bhyi6I4mruipHlhup6/oUEiX0=
+
+Name: res/drawable/bg_music_btn.png
+SHA1-Digest: +2bbr8+J9JfFZcVkBvLl+e8ONAY=
+
+Name: res/raw/mtkprotocol.ini
+SHA1-Digest: dmyurpeVvq3EiDIF4IS+6mMivd8=
+
+Name: res/drawable/btn_home.xml
+SHA1-Digest: KOGpqRJAI5EAyjZLKZMBgxf82XU=
+
+Name: res/layout/bt_call.xml
+SHA1-Digest: 6xLCmdPN87eTgDO0HkVq1+q2xsk=
+
+Name: res/drawable/btnicon_fastspeed_3.png
+SHA1-Digest: ZFBtTzaTcOoermMtl74NOwHyhI4=
+
+Name: res/drawable/quickcontact_top_frame.9.png
+SHA1-Digest: aB6wOQtYcALPv9F03YqXan6cHD8=
+
+Name: res/drawable/next_play.png
+SHA1-Digest: xZOqNH3AT/S09YsCcDU15LF+Nz8=
+
+Name: res/drawable/phonebook_pause_btn.xml
+SHA1-Digest: y3YPDhN367E4xPnL7Fq3FlnHAV8=
+
+Name: res/drawable/btn_4.png
+SHA1-Digest: 8URDGh5ADqOq4qJvDC95GYpXyi0=
+
+Name: res/drawable/btn_7_2.png
+SHA1-Digest: vEIMViiyvJPmbYGVDMzAolL3ZG8=
+
+Name: res/layout/bt_settings.xml
+SHA1-Digest: h2IaDnge0KofLVIYbq2+QcbfRzg=
+
+Name: res/drawable/star.png
+SHA1-Digest: k52FU+Ir01PJrCSquif1sMeMz6k=
+
+Name: res/drawable/bt_call_phonesound_d.png
+SHA1-Digest: BO52Y7YMlNfdOx3UBckrXiGJ1yE=
+
+Name: res/drawable/btn_callhistory_pause.png
+SHA1-Digest: 7Q4wfCjQLloG575SUrUNi7WGCA8=
+
+Name: res/drawable/devices_title_b_d.png
+SHA1-Digest: P+F4RsRSKmTvCl5yF1qZCQtzweU=
+
+Name: res/drawable/bt_call_hangup_n.png
+SHA1-Digest: Ic2OqTm1/4/moH/PsebXzep0fA0=
+
+Name: res/drawable/btn_callhistory_play.png
+SHA1-Digest: 9mZTd8GBxijas5QI7qodfVlRwHE=
+
+Name: res/drawable/btn_phonebook_call.png
+SHA1-Digest: BSoQO88u2QHCaERW04RkJrQrz7g=
+
+Name: res/drawable/btnicon_fastback_2.png
+SHA1-Digest: wrLZDN9wqKMtUf+oWffSbO006b8=
+
+Name: res/drawable/warn_icon.png
+SHA1-Digest: ORbaWeoni0OJtZBW552srRKlHlA=
+
+Name: res/drawable/btn_1.png
+SHA1-Digest: lnnhy4MNcdm2jbY8m0qLcFq0gT0=
+
+Name: res/drawable/btn_2.png
+SHA1-Digest: vzSLtVa16rZW2WbQsJx2VuOvksw=
+
+Name: res/layout/btphonenum_yika.xml
+SHA1-Digest: IXB3cXNFP/sUDZVMt90dIRCVJoM=
+
+Name: res/drawable/widget_select_bg.png
+SHA1-Digest: ipQVnYerd/DB/rmcMXkvAcevDrk=
+
+Name: res/drawable/music_icon_artist.png
+SHA1-Digest: 8ueLNhwhZVtNQP11kOwRCIKO0Lw=
+
+Name: res/xml/bg_callhistory_allcall_btn.xml
+SHA1-Digest: +/R5ds5/wFfqIpxilGPzttyNc5s=
+
+Name: res/drawable/btn_callhistory_misscall_0.png
+SHA1-Digest: jSatnE/pj5HvPL9qR8s9rW2STQQ=
+
+Name: res/xml/bg_callhistory_misscall_btn.xml
+SHA1-Digest: FGncwJuSBN0eSwSgjAA7CUdNl+o=
+
+Name: res/xml/bg_call_carsound_btn.xml
+SHA1-Digest: xC73w3tWlqzcsyWMVYIfaW9bNDk=
+
+Name: res/xml/bt_pairedhistory_connect.xml
+SHA1-Digest: MTZR8ACZTTZhz1yG4eHtTekl9Hg=
+
+Name: res/drawable/blue_progressbar.xml
+SHA1-Digest: V7Psh752YV11VVo5NO9d/5zKI6w=
+
+Name: res/drawable/btn_phonebook_pause.png
+SHA1-Digest: 7Q4wfCjQLloG575SUrUNi7WGCA8=
+
+Name: res/drawable/bt_settings_t.png
+SHA1-Digest: PN/DfV4z8wmbUYfcWYHuSHKCcQU=
+
+Name: res/drawable/btn_8_2.png
+SHA1-Digest: 2B+ek+58+Dqcu65RutC1ZkzrdDo=
+
+Name: res/drawable/bg_rounded_rectangle.xml
+SHA1-Digest: UEITM0iKuc2fbWx7NBUXPFVoA7s=
+
+Name: res/drawable/bt_call_answer_n.png
+SHA1-Digest: AiRGhEio/4SXVsS/4T5NU0p6NdU=
+
+Name: res/drawable/btnicon_fastspeed_2.png
+SHA1-Digest: WKj/FZnlw0XgKdIdjeHsn6XfSQ8=
+
+Name: res/layout/yika.xml
+SHA1-Digest: zFvC9OpbMfD3xC0J1RqXVYF24YU=
+
+Name: res/drawable/callhistory_sync_btn.xml
+SHA1-Digest: Oce6TWYd5VTLhxd/WsQxYN9Q2mE=
+
+Name: res/drawable/bt_phonebook_d.png
+SHA1-Digest: P/S4L1a0Odq02ifKUkdC2EVuF7Q=
+
+Name: res/drawable/bt_180_50_btn_disable_focused.png
+SHA1-Digest: A1pc+gvz4DIMn7YvmrPvoBWkwaU=
+
+Name: res/drawable/btnicon_fastback_3.png
+SHA1-Digest: 2Jht8liRWyPsNv8U6mES4Ka7vX8=
+
+Name: res/drawable/phonebook_sync_btn.xml
+SHA1-Digest: MZVWB5W7cK64BIDm+/Nz208OLk4=
+
+Name: res/layout/bt_edit_name.xml
+SHA1-Digest: IREKrDUg5MboI5yWQ2DkHnyAe5U=
+
+Name: res/layout/bt_authenticating_dialog.xml
+SHA1-Digest: iXkLHJsgzX2koXR5T5b3k0vsi0w=
+
+Name: res/layout/btphonenumlist.xml
+SHA1-Digest: N+A4ppKGH2907c0+ZG4sr1xeg0Q=
+
+Name: res/drawable/bt_dial_btn_f.png
+SHA1-Digest: rUtlqLXcyUuNqU/+/NCzPpec0To=
+
+Name: res/drawable/btn_callhistory_callout.png
+SHA1-Digest: +6aO9fTmLocmpEcqFp/E5rtVd6w=
+
+Name: res/drawable/bg_dialpad_btn_4.xml
+SHA1-Digest: FiUiq3ce7+BDJi948Pf3+lvTKEw=
+
+Name: res/drawable/bt_music_prev.xml
+SHA1-Digest: lIHXMLTqVxudaZMyWvBq5hkVGdA=
+
+Name: res/drawable/bt_call_phonesound_n.png
+SHA1-Digest: nx7G4cNKPhMHo7SHREInYMmVtWM=
+
+Name: res/drawable/btn_phonebook_play.png
+SHA1-Digest: 9mZTd8GBxijas5QI7qodfVlRwHE=
+
+Name: res/drawable/btnicon_next_2.png
+SHA1-Digest: FLKAU2sBrC4z5OM9k62QDQ20ZC0=
+
+Name: res/drawable/callhistory_play_btn.xml
+SHA1-Digest: E+o2Ntjvxpy+ZXCZHloHmKe4aJM=
+
+Name: res/drawable/bt_tab_background.png
+SHA1-Digest: HydbCZ4zrd2DCUWTBPv3b1rzjgU=
+
+Name: res/drawable/bt_return.png
+SHA1-Digest: o4j3Qs/gRQ+mQ6zQLx4NGvs4F1A=
+
+Name: res/drawable/bt_number_btn_n.png
+SHA1-Digest: ObckLcp/tMshg89Wsn41QUVnD5c=
+
+Name: res/drawable/btn_3.png
+SHA1-Digest: tcvNx5UH9ZCiLFBaUwlbGPLPE8g=
+
+Name: res/drawable/warn_icon_ex.png
+SHA1-Digest: vP6xHjSI2mPg55QMf1O06BIuiwk=
+
+Name: res/drawable/bt_device_highlight.png
+SHA1-Digest: 6QEhC9BU9UIzliK2nIE0HgY9+D4=
+
+Name: res/drawable/bt_music_mute.xml
+SHA1-Digest: Wp060vbppU97i22SrzP8Z+2T7M0=
+
+Name: res/drawable/action_item_btn.xml
+SHA1-Digest: jcC6qo9bOvs9g/vLIcSDxN78Pa8=
+
+Name: res/drawable/btnicon_scan.png
+SHA1-Digest: Ez9Jk4RWtRn4kucHVVi+o4HIrj4=
+
+Name: res/xml/bg_call_answer_btn.xml
+SHA1-Digest: UHR1+E4r8P5s/t5cLl8VjRXAnwM=
+
+Name: res/drawable/btnicon_pause_2.png
+SHA1-Digest: wNxZKAHKHC8pQpQ5Lv5voDWzjKA=
+
+Name: res/drawable/devices_title_b_n.png
+SHA1-Digest: IvVjYtTJq8IBx7VXu1kB35Hf9ow=
+
+Name: res/drawable/btn_phonebook_call_2.png
+SHA1-Digest: /pRVPiQD/P6WCU+iMiQhgMPLztE=
+
+Name: res/drawable/btn_phonebook_sync.png
+SHA1-Digest: tAl5NbSn09fsBHVmvddoT14XA64=
+
+Name: res/layout/bt_music.xml
+SHA1-Digest: c4rhdwr9WIA1mUjbOxxnWdI76Yk=
+
+Name: res/drawable/btn_toggle_bg.xml
+SHA1-Digest: hxeVy7e0YzbBV/Dj5Hyu4siPlvQ=
+
+Name: res/drawable/bt_setting_bg_hv.png
+SHA1-Digest: b2XSwVPPv6e9Nf8ydzzrkXVHKZI=
+
+Name: res/drawable/dialpad_call_btn.xml
+SHA1-Digest: PsIFtHsgVszZExTFtQvN59n6nCE=
+
+Name: res/drawable/bt_history_highlight.png
+SHA1-Digest: 6QEhC9BU9UIzliK2nIE0HgY9+D4=
+
+Name: res/drawable/bt_dialpad_backspace_n.png
+SHA1-Digest: VsOEainxY5XcCbwBT2wUlmtR5EU=
+
+Name: res/layout/bt_edit_pin.xml
+SHA1-Digest: W+CGjNp/6tW7oFNKAqvc8KnnvDg=
+
+Name: res/drawable/bg_dialpad_btn_0.xml
+SHA1-Digest: 89ho+1E3Ja55gF0AfttzHh7TmTc=
+
+Name: res/drawable/btnicon_fastspeed.png
+SHA1-Digest: wxWPMM2R4Iml5nncv7iVwO61Zck=
+
+Name: res/drawable/download_tip_bg.png
+SHA1-Digest: W7rq2EtvHGoPpDRw8cNMMfP8ydA=
+
+Name: res/drawable/btn_180_50_bg.xml
+SHA1-Digest: caAKIzKxQ1EvBDbY33+t+RCVGdA=
+
+Name: res/layout/history_listitem.xml
+SHA1-Digest: wLEWG6CJQRw5p+bg/PwIwPFKerw=
+
+Name: res/drawable/bt_dialpad_d.png
+SHA1-Digest: LNegfmEZ8EfPfouAqhEL50DjhFg=
+
+Name: res/drawable/bt_call_answer_d.png
+SHA1-Digest: bs0CH+a3iKVl81nNH/b7x/HgTd0=
+
+Name: res/drawable/bt_mute.png
+SHA1-Digest: +RLAjHAvUix6gBKaK2b2mxnhhgQ=
+
+Name: res/drawable/phonebook_play_btn.xml
+SHA1-Digest: g9S4IbYrgE93JJCre9xiKpRAk10=
+
+Name: res/xml/bg_dialpad_call.xml
+SHA1-Digest: QfaCvMQo/KyQ7Az0PQRBhJDf2S8=
+
+Name: res/xml/bt_pairedhistory_delete.xml
+SHA1-Digest: Xh9j4G37/QrIlhHuxMX4tvKdIPk=
+
+Name: res/drawable/bt_toggle_disable_check_focused.png
+SHA1-Digest: LGuRwKfbpmoa3GYOh/SO09TC+kc=
+
+Name: res/drawable/btn_callhistory_callout_0.png
+SHA1-Digest: uEwlxy1/JgcRvr0pWe7O5rXdt0A=
+
+Name: res/drawable/bg_dialpad_btn_3.xml
+SHA1-Digest: F9kX9fq3+rEi49/W+5LAZMDk5Mk=
+
+Name: res/drawable/btn_3_2.png
+SHA1-Digest: NN6jv8U6UyrMBpdYMbC1V4isDI0=
+
+Name: res/drawable/btn_callhistory_sync_2.png
+SHA1-Digest: yuIrVObvtLIhQf9yOnVeSnf9xfI=
+
+Name: res/drawable/bt_dialpad_backspace_f.png
+SHA1-Digest: Oscz6wT3IBKvxOxuN3AfZsT7n24=
+
+Name: res/drawable/bt_call_carsound_d.png
+SHA1-Digest: Uf8PlGRDuvWZGZO+LWTivazDVU0=
+
+Name: res/drawable/btn_0_2.png
+SHA1-Digest: l8Y0SsgVT9dTBVOP0itMplYaes8=
+
+Name: res/drawable/bg_phonebook_dialer.xml
+SHA1-Digest: qCO+vl7msuFcHTc6c8GpD/X41oE=
+
+Name: res/drawable/btnicon_fastback.png
+SHA1-Digest: q/ILGF+CNDsrWD8Crq1p4xJkBPY=
+
+Name: res/drawable/bt_unmute.png
+SHA1-Digest: 8mq++PzYTHrvWUT2q7FIKw9j4Mk=
+
+Name: res/drawable/bt_toggle_check_focused.png
+SHA1-Digest: PU3V5VxK5Q2evlR7i/fScBl/aqQ=
+
+Name: res/drawable/btn_callhistory_play_disable.png
+SHA1-Digest: 9mZTd8GBxijas5QI7qodfVlRwHE=
+
+Name: res/layout/device_listitem.xml
+SHA1-Digest: w2W9EvYLZpnZojHNQw6ulDy6hEc=
+
+Name: res/drawable/widget_divider.png
+SHA1-Digest: NiDruuWcbN87qzYq+xRbUKqfsfQ=
+
+Name: res/xml/bg_call_hangup_btn.xml
+SHA1-Digest: G0dD8xgt44jUkNhFUBYk3zKu8W8=
+
+Name: res/drawable/btnicon_delete_2.png
+SHA1-Digest: sh5TjcbgUA3SX8fGV0xUhTnaphU=
+
+Name: res/drawable/ic_sms_return_f.png
+SHA1-Digest: 1WwJxAHuc0og04EMv9NlC/ff2ls=
+
+Name: res/drawable/btnicon_pause_3.png
+SHA1-Digest: wNxZKAHKHC8pQpQ5Lv5voDWzjKA=
+
+Name: res/drawable/btnicon_prev_2.png
+SHA1-Digest: VsVqC3VGt1EmjCgzy0XALYV75yk=
+
+Name: res/drawable/bt_sms_d.png
+SHA1-Digest: CzVaBzIPkW9WdFHnyGSznLkSLag=
+
+Name: res/drawable/bt_search_n.png
+SHA1-Digest: yJ906i0VSvk/xrWtnsygA9Z4uH8=
+
+Name: res/drawable/bt_call_bg_big.png
+SHA1-Digest: 9Db9Rm2lxuhyul7DBbu0UVjl8Bo=
+
+Name: res/drawable/sharp_2.png
+SHA1-Digest: zn1eclSEMCLcSwR4iruHLEpOnVg=
+
+Name: res/drawable/sharp.png
+SHA1-Digest: L5ISfm5XbVq12A5mKm0ssvDTY+8=
+
+Name: res/drawable/bt_call_hangup_d.png
+SHA1-Digest: 83WxVnq7AUm8wljaC4zQKX2Ph1s=
+
+Name: res/drawable/btn_callhistory_call_2.png
+SHA1-Digest: /pRVPiQD/P6WCU+iMiQhgMPLztE=
+
+Name: res/drawable/btn_phonebook_sync_2.png
+SHA1-Digest: 2jxiKoLog3PRxF9IgD52QG0GPs4=
+
+Name: res/drawable/btnicon_disconnect.png
+SHA1-Digest: n4FVDWKdQVI0MXUufbdFpr3tk9Q=
+
+Name: res/drawable/btn_dialpad_call.png
+SHA1-Digest: LECBgnL/HvU/0MjrqAn1v7oALBY=
+
+Name: res/drawable/action_item_selected.9.png
+SHA1-Digest: ZaxcNXrkweRaxfCIBpbel4wb+PA=
+
+Name: res/layout/bt_pair_connect.xml
+SHA1-Digest: 9TCykaWnbi/XJ25d7b/amMfiU3M=
+
+Name: res/drawable/btn_phonebook_pause_2.png
+SHA1-Digest: baN6g/lp4fARj1rwXmLyOZ0cGuA=
+
+Name: res/color/btn_textview.color.xml
+SHA1-Digest: GUfCKohiVhiUxPLYMf7qqx96d84=
+
+Name: res/drawable/bt_call_softkey_n.png
+SHA1-Digest: cOT2lFZSYumKT/Ntpy9Akh9r/yc=
+
+Name: res/drawable/bg_dialpad_btn_8.xml
+SHA1-Digest: w+JHuUwaRgfbXaIDDQVn0JX/Q1I=
+
+Name: res/drawable/bt_phonebook_callicon.png
+SHA1-Digest: ayVMBZZ5kDf7p5ixQcL0bDj6Qv0=
+
+Name: res/drawable/bt_toggle_check_pressed.png
+SHA1-Digest: jS46uDQL//J7n09f9TtgSHM6MiE=
+
+Name: res/drawable/recall.png
+SHA1-Digest: pjpeleNs87D3E6KeM+dRqv7ruFs=
+
+Name: res/drawable/bt_call_softkey_d.png
+SHA1-Digest: 9tMXf4IM98F6sODUmuRvaLqVztI=
+
+Name: res/drawable/back_d.png
+SHA1-Digest: y+kYk+3sfBd8n5YlfQCbRjYXWec=
+
+Name: res/layout/phonebook_listitem.xml
+SHA1-Digest: 1h1Uf9ZxmaOYxzGEQMfEwpJ7V78=
+
+Name: res/drawable/bt_call_softkey_btn_n.png
+SHA1-Digest: xJZt7C+Sd1a1IXVb54wA53D+ul8=
+
+Name: res/drawable/paired_devices_btn_b.xml
+SHA1-Digest: fjZLng2UAGxH1C3Jm0TV+5LtpSU=
+
+Name: res/drawable/btn_9.png
+SHA1-Digest: SuRi+7eaua7hQnaJup00hWvt7wk=
+
+Name: res/drawable/btnicon_setting.png
+SHA1-Digest: /hT3AlIRNsePu1xyk7jEtJ/DdD8=
+
+Name: res/drawable/bt_dial_btn_n.png
+SHA1-Digest: tRhbydisoURXVDiNtQnBWyF5BjA=
+
+Name: res/drawable/send.png
+SHA1-Digest: zEMU4MQnmmieLJFNZjFpMGLfJYg=
+
+Name: res/drawable/btnicon_switch_on.png
+SHA1-Digest: 9DTM4ealib29IeKarnT78Y9lsH4=
+
+Name: res/drawable/btnicon_play_1.png
+SHA1-Digest: +RmfyP2SD1HKDZkC4aiemOC+SEc=
+
+Name: res/drawable/btnicon_next_3.png
+SHA1-Digest: FLKAU2sBrC4z5OM9k62QDQ20ZC0=
+
+Name: res/layout/bt_sms.xml
+SHA1-Digest: sTXfNn9W9FGwFSgTJf0uy7rYuHU=
+
+Name: res/drawable/bt_music_play.xml
+SHA1-Digest: ptLS6DyX1r6naLKjKfTmCLg5CDQ=
+
+Name: res/drawable/bg_dialpad_btn_5.xml
+SHA1-Digest: HvLs0SsmmBAeUSI9vaiqFw2cKvs=
+
+Name: res/drawable/ic_action_phone.png
+SHA1-Digest: VGuuj/dgYEauu9JORm6PrVyLY0w=
+
+Name: res/anim/shrink_from_bottom.xml
+SHA1-Digest: T5bfqUDFmS+r0BQXUVGS3HN4+qQ=
+
+Name: res/drawable/bt_tab_highlight.png
+SHA1-Digest: vXnezq7JAS9tYFxt8mVK/UNhb6M=
+
+Name: res/drawable/bt_a2dp_d.png
+SHA1-Digest: CVVyh/F0f32c+rIMTfHurpkFKzo=
+
+Name: resources.arsc
+SHA1-Digest: VXn7HFIFPBH6P+wtQQ4aXarXQgI=
+
+Name: res/layout/tabhost.xml
+SHA1-Digest: wy2O0mftBnUQAqHnP05J7IGDq58=
+
+Name: res/drawable/btn_9_2.png
+SHA1-Digest: Lrv4y5AUgKniXfFr37nSrp+l1c0=
+
+Name: res/drawable/btnicon_stop_2.png
+SHA1-Digest: zmH1PfYqkff62OfPbQoE40nKHNg=
+
+Name: res/drawable/ic_call_log_header_missed_call.png
+SHA1-Digest: DRdHWNi4QowzuWqFVlnqwBAsU6I=
+
+Name: res/drawable/dial_action_call.png
+SHA1-Digest: ldADXsMtXFwAc9Hp7LLAQqGv9zI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 144Z/OlkL4Yvi3hdhvghzFm3MfQ=
+
+Name: res/drawable/bt_background.png
+SHA1-Digest: B3yYczC19f9oIKHdmb2wBWl8pcw=
+
+Name: res/drawable/music_status_bg.png
+SHA1-Digest: FhEgEoFonv13clrr58qjRn3ce7U=
+
+Name: res/drawable/bt_dialpad_backspace_d.png
+SHA1-Digest: Oscz6wT3IBKvxOxuN3AfZsT7n24=
+
+Name: res/drawable/devices_title_t_n.png
+SHA1-Digest: inA7JtUXNCJjrC/GSc+PwTAMato=
+
+Name: res/xml/bg_call_keypad_btn.xml
+SHA1-Digest: u1Bmb57dNcjeopWuqDXFK059OTY=
+
+Name: res/drawable/btnicon_prev_3.png
+SHA1-Digest: VsVqC3VGt1EmjCgzy0XALYV75yk=
+
+Name: res/drawable/ic_action_sms.png
+SHA1-Digest: jxlnd401p5Fb5iHRapsMQTmAyKI=
+
+Name: res/drawable/star_2.png
+SHA1-Digest: Zp/qSLUzgEaJkgS+eq9Ir29UwlE=
+
+Name: res/drawable/btn_callhistory_allcall.png
+SHA1-Digest: VWxzjuTYoZF401FVtd0JV74LSPA=
+
+Name: classes.dex
+SHA1-Digest: o4mU1sMeMHRukN0l1DnPdQW3qYQ=
+
+Name: res/drawable/bg_dialpad_btn_9.xml
+SHA1-Digest: 4kGi6g5bIMfxX2WYgB2G2+lCJ/8=
+
+Name: res/drawable/call_dialpad_bg.png
+SHA1-Digest: vLcssepeswx4039LyFLW0h0flQg=
+
+Name: res/drawable/btn_phonebook_play_2.png
+SHA1-Digest: D7VGNHeCpga4kgy+cmph1knmIcs=
+
+Name: res/drawable/bt_toggle_disable_uncheck_focused.png
+SHA1-Digest: rVIN6P9CbdVKl/NcwdjfrFLIWiQ=
+
+Name: res/drawable/icon.png
+SHA1-Digest: rW6SKyCcYtdAnrlU+mTfb1D8raw=
+
+Name: res/drawable/btn_2_2.png
+SHA1-Digest: OZhyMpu1ywI83l6W7fcPkhVUDNk=
+
+Name: res/drawable/bt_180_50_btn_n.png
+SHA1-Digest: 1guXjOTjY/NAMFTgfVDlTtvejp0=
+
+Name: res/drawable/btn_callhistory_sync.png
+SHA1-Digest: OSJq83Yf9hlgRXjBPMfU/pGCl1c=
+
+Name: res/drawable/music_bg.png
+SHA1-Digest: xMS61Ahplg8lY8NBOc3KnOaN1eo=
+
+Name: res/drawable/music_icon_album.png
+SHA1-Digest: IKSCVJilahvmpdPUWZhVzYNijps=
+
+Name: res/drawable/bt_phonebook_highlight.png
+SHA1-Digest: 6QEhC9BU9UIzliK2nIE0HgY9+D4=
+
+Name: res/drawable/bt_music_bottom_bg.png
+SHA1-Digest: kEmOEA++5HdSIL+9hXD00ZpEEdY=
+
+Name: res/drawable/bt_call_carsound_n.png
+SHA1-Digest: kZjSPjykbSd+PA4oYCL3bV9ciyw=
+
+Name: res/anim/slide_left_in.xml
+SHA1-Digest: 6ugKGKR8Qul+5EriyMMm9h/QL0c=
+
+Name: res/drawable/music_icon.png
+SHA1-Digest: OCDaCRgWtu6PY4OfzBdlHNrrHfA=
+
+Name: res/drawable/btn_callhistory_misscall.png
+SHA1-Digest: ETa1XXgTzNdPAW5b2sz7r1uC80w=
+
+Name: res/drawable/bg_dialpad_btn_sharp.xml
+SHA1-Digest: DmHz7cArN66wtJmh9UjhlYFsCdw=
+
+Name: res/drawable/ic_call_log_header_outgoing_call.png
+SHA1-Digest: 7LjrZhVxkyiIyKDgqzED3NtLA3M=
+
+Name: res/drawable/bt_call_softkey_btn_f.png
+SHA1-Digest: 9cEWjkQ0Qw+yQVnOLpQDy+s+bWc=
+
+Name: res/layout/pair_connect_listitem.xml
+SHA1-Digest: UHZMID/mrfuctB9EtdjEWxZyj1M=
+
+Name: res/drawable/btnicon_pause_1.png
+SHA1-Digest: wNxZKAHKHC8pQpQ5Lv5voDWzjKA=
+
+Name: res/drawable/btn_callhistory_pause_2.png
+SHA1-Digest: baN6g/lp4fARj1rwXmLyOZ0cGuA=
+
+Name: res/drawable/yika_server.png
+SHA1-Digest: ymm8k7J3gMc15UdLmam8lspbuBI=
+
+Name: res/layout/bt_phonebook.xml
+SHA1-Digest: sNEgCA5X2TZJFnkbW/wJk7rT1rE=
+
+Name: res/drawable/music_progress_bg.png
+SHA1-Digest: lzrFBpQ0fGWGEAD6x9XDzntkM+4=
+
+Name: res/drawable/bt_music_fastspeed.xml
+SHA1-Digest: 1AY0gRNsjYPn1RZ1vhSWWfWqF2U=
+
+Name: res/drawable/bt_toggle_disable_uncheck.png
+SHA1-Digest: eh+lw1VGvgwXeIDFW7uQv7IHook=
+
+Name: res/drawable/bg_dialpad_btn_2.xml
+SHA1-Digest: gYe9RvEowqAbH42EtgVmgNywDj0=
+
+Name: res/drawable/btnicon_setting_2.png
+SHA1-Digest: p85qFW2xdpdYG0ZwjlmwB0BVw/I=
+
+Name: res/drawable/bt_180_50_btn_press.png
+SHA1-Digest: SOIMdU0Gm8XjyX9zse3+5I0JJfs=
+
+Name: res/layout/quickaction.xml
+SHA1-Digest: d0JSxxIZ3Mx34KxLV0eeNc2h5Bs=
+
+Name: res/drawable/bg_dial_btn.png
+SHA1-Digest: Hyog/tPZjrl8sNMPDBooESMuXrM=
+
+Name: res/drawable/bg_dialpad_btn_1.xml
+SHA1-Digest: gh/3FH16+okL6jW43NTdgVpYKkA=
+
+Name: res/layout/bt_callhistory.xml
+SHA1-Digest: tw6i3YiC35eepqLKT0Yrs+U7rQ8=
+
+Name: res/drawable/bt_music_unmute.xml
+SHA1-Digest: AiNXZZPOJS7MmNtz4MH5OXY40yI=
+
+Name: res/drawable/picture_unknown.png
+SHA1-Digest: z8h5rolLkNr6PedDA0nH7IQu9+E=
+
+Name: res/xml/bg_softkeypad.xml
+SHA1-Digest: Ei20QSXMvxsE/Cr7ucsIaSY0TKI=
+
+Name: res/drawable/bt_180_50_btn_enable_focused.png
+SHA1-Digest: LKOrZRhAeR/hYLqbkD/xH5mj0gg=
+
+Name: res/drawable/bt_toggle_uncheck_focused.png
+SHA1-Digest: pQwddfrvdpnpGpl6wEpA175UrY0=
+
+Name: res/layout/bt_calling_yika_status.xml
+SHA1-Digest: iGpZv7kSv4psSgYvsZ4GMZR+QF0=
+
+Name: res/xml/bg_call_phonesound_btn.xml
+SHA1-Digest: hWhC28h69cYyDseCEdX7SfpBK3I=
+
+Name: res/anim/slide_left_out.xml
+SHA1-Digest: I4C8Fr79DIs1ZVHb/qFXjfUsZcc=
+
+Name: res/drawable/bt_number_btn_d.png
+SHA1-Digest: YDsDrU3qi59bSpA2jS05FDm/H+A=
+
+Name: res/drawable/bt_redial_btn_f.png
+SHA1-Digest: ZVR/bGz5v4yH9hE6HnOil0NuWuM=
+
+Name: res/drawable/bt_music_stop.xml
+SHA1-Digest: emkQaSXKLPxVp6Cf5rTaYFak8fY=
+
+Name: res/drawable/btnicon_pause.png
+SHA1-Digest: IX9ieUjK1Ueaql15gCkD4wg8hvw=
+
+Name: res/drawable/btnicon_stop_1.png
+SHA1-Digest: doZz2GExhkPw8F2mcJk8INNhvGw=
+
+Name: res/drawable/bt_call_inputbox_bg.png
+SHA1-Digest: JODEO+TOE8krn4YckEmf9L2/SK8=
+
+Name: res/drawable/bg_dialpad_backspace.xml
+SHA1-Digest: TLY32IHU285u6gmKF8EfCMqCHNY=
+
+Name: res/drawable/quickcontact_slider_background.png
+SHA1-Digest: GOdYYdVPusPFNZyzWudepSoFqu8=
+
+Name: res/drawable/btnicon_play_2.png
+SHA1-Digest: Kbmsflf5PXQDXOSOtFmBF4Ias9s=
+
+Name: res/drawable/quickcontact_slider_grip_right.png
+SHA1-Digest: B20E69+4rZSY+uqtZKBKZiTY4ek=
+
+Name: res/drawable/btnicon_stop.png
+SHA1-Digest: doZz2GExhkPw8F2mcJk8INNhvGw=
+
+Name: res/drawable/phonebook_call_btn.xml
+SHA1-Digest: ZjFl09fy+FocKLDPczbKSPlDYCI=
+
+Name: res/drawable/music_icon_calendar.png
+SHA1-Digest: jKndd2+sFhow43fqG64vD2BUPBE=
+
+Name: res/drawable/bt_music_pause.xml
+SHA1-Digest: 6on0+w+aZRQEWBm5lSJPfuvoo3g=
+
+Name: res/drawable/bt_dial_edt.png
+SHA1-Digest: dt+mQxrlKCU1gXCk3mwTm1JUkFg=
+
+Name: res/drawable/btn_0.png
+SHA1-Digest: t6cA3cOqkeuFo/4NZmsVkcg56+E=
+
+Name: res/drawable/bt_toggle_disable_check.png
+SHA1-Digest: YYY+fzYO85XpUmld0YCKLOwMuDU=
+
+Name: res/drawable/bt_call_bg_small.png
+SHA1-Digest: z5EfUkqnXSiNN9RufjFRBC6A864=
+
+Name: res/drawable/btn_6_2.png
+SHA1-Digest: 8oV00tR/aymKXbiz42fX/7RENmo=
+
+Name: res/drawable/bt_redial_btn_d.png
+SHA1-Digest: rUtlqLXcyUuNqU/+/NCzPpec0To=
+
+Name: res/xml/bt_setting_setting.xml
+SHA1-Digest: 38NeYBnLX/cM+LZxfGlkTGqLp+s=
+
+Name: res/xml/bt_pairedhistory_disconnect.xml
+SHA1-Digest: ertSl13uHRNb3MlcWK58gELj91M=
+
+Name: res/drawable/callhistory_call_btn.xml
+SHA1-Digest: gNOxCE8qBp1jInVTjBnhtSUbGxI=
+
+Name: res/drawable/bg_dialpad_divider.png
+SHA1-Digest: mXn4eXedn/n3uOtUdnkI/ABZz4o=
+
+Name: res/drawable/bt_toggle_check.png
+SHA1-Digest: mK4WbaGn00Y9OSZVQx1DPSRgIVI=
+
+Name: res/drawable/btn_callhistory_callin_0.PNG
+SHA1-Digest: yg2bZXLgdV1g1lNJ52mrQBHUaMU=
+
+Name: res/drawable/btnicon_play_3.png
+SHA1-Digest: Kbmsflf5PXQDXOSOtFmBF4Ias9s=
+
+Name: res/drawable/quickcontact_arrow_up.png
+SHA1-Digest: hAxAJrtFEBgEQV4oMThTGPN3X+k=
+
+Name: res/drawable/yika_btn_back.xml
+SHA1-Digest: hFZqdgGMvaQ6zk3UeE2aWgRblI8=
+
+Name: res/drawable/bg_dialpad_btn_7.xml
+SHA1-Digest: NGO46nu+ST5Xyw9leCWqp1AwGb8=
+
+Name: res/drawable/show_action_call.png
+SHA1-Digest: sOJUxsWmP/Hd/cDvqWnB/N47KK8=
+
+Name: res/drawable/bg_dialpad_btn.xml
+SHA1-Digest: 3ZHKn3IDP/kDuA7FB2kfRMAkqAc=
+
+Name: res/xml/bg_dialpad_number.xml
+SHA1-Digest: bjCOObxwMvuamEBB58IJVC5FWzI=
+
+Name: res/drawable/bg_dialpad_btn_6.xml
+SHA1-Digest: jr3CSU+Oc9sAfv4ULuiPoAEwL04=
+
+Name: res/drawable/bt_dialpad_btn_n.png
+SHA1-Digest: qYzvHJRoT+0ZtXjdCN9h8RwSpFY=
+
+Name: res/drawable/btn_dialpad_call_2.png
+SHA1-Digest: 8/jEzFLVr1pccPijmB7cQSpLcgM=
+
+Name: res/drawable/bt_toggle_uncheck_pressed.png
+SHA1-Digest: 0e89KVDxOb4Hgd22c3+ciOltnkA=
+
+Name: res/xml/bg_callhistory_callin_btn.xml
+SHA1-Digest: 8cEFqaH/KpscAY/5MOswENW+IaI=
+
+Name: res/drawable/bt_tab_select.xml
+SHA1-Digest: UEITM0iKuc2fbWx7NBUXPFVoA7s=
+
+Name: res/drawable/btn_callhistory_play_2.png
+SHA1-Digest: D7VGNHeCpga4kgy+cmph1knmIcs=
+
+Name: res/drawable/quickcontact_arrow_down.png
+SHA1-Digest: n3l5x8GgWBS7HSG31iLHJg1jmB8=
+
+Name: res/drawable/btnicon_switch_off.png
+SHA1-Digest: FRaOFxjnZK0m3uFvjLwyA62KL0Y=
+
+Name: res/drawable/back_n.png
+SHA1-Digest: MUEk0xOWPhfQOR9BY4gSmRrBuDU=
+
+Name: res/drawable/btn_callhistory_call.png
+SHA1-Digest: BSoQO88u2QHCaERW04RkJrQrz7g=
+
+Name: res/drawable/btnicon_connect_2.png
+SHA1-Digest: 76UG2Ol1PCxyQqzA6jmbNpLAu0Y=
+
+Name: res/drawable/btnicon_scan_2.png
+SHA1-Digest: fNPvkzu2GXGsPRGamdFrufj7N5c=
+
+Name: res/drawable/btnicon_delete.png
+SHA1-Digest: 64lpK4dMMadFREJu+xMZxBZv8iw=
+
+Name: res/layout/others.xml
+SHA1-Digest: OB79RAafFvN4fcq+E3M7fqLJmkU=
+
+Name: res/drawable/bt_music_fastback.xml
+SHA1-Digest: ZeRhGvh1CbG5LkTmpABQHpRkM7o=
+
+Name: res/drawable/btn_back.xml
+SHA1-Digest: OAiCnddZdAgQfUGRXMtZK8pW+Ys=
+
+Name: res/drawable/bg_dialpad_btn_star.xml
+SHA1-Digest: 9g0x/JGeGZ1BTXHA86m6ZijZ4oc=
+
+Name: res/drawable/dialpad_recall_btn.xml
+SHA1-Digest: BOv0AcOFpg206yvJg83zn++Msjc=
+
+Name: res/drawable/btn_6.png
+SHA1-Digest: AeZTIYNqFtV9SohuVOyjS8uzcdM=
+
+Name: res/drawable/btnicon_next.png
+SHA1-Digest: lN2iCj/UbXDqnAGIZ2VlxHr4rRM=
+
+Name: res/drawable/btnicon_stop_3.png
+SHA1-Digest: zmH1PfYqkff62OfPbQoE40nKHNg=
+
+Name: res/layout/bt_calling_status.xml
+SHA1-Digest: kq0m2FT5mKywPKyzCXYtbJoOXq4=
+
+Name: res/drawable/devices_title_t_d.png
+SHA1-Digest: kSucnsLkwntcDqdH0isSsFWjAUs=
+
+Name: res/drawable/bt_180_50_btn_disable.png
+SHA1-Digest: Im0BE+s3gzPQdWt+ev542WYDAig=
+
+Name: res/drawable/btnicon_connect.png
+SHA1-Digest: Ut7VQpqXtY7rvk/NpzJH30ip4yE=
+
