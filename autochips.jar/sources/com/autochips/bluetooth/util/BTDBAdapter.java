@@ -104,7 +104,7 @@ public class BTDBAdapter {
         if (DBG) {
             Log.d(TAG, "insertOneRecord()");
         }
-        String phoneNumTrimed = phonenum.replaceAll("\\D+", BluetoothPbapClientPath.PBAP_ROOT_NAME);
+        String phoneNumTrimed = phonenum.replaceAll("[( )-]", BluetoothPbapClientPath.PBAP_ROOT_NAME);
         this.db = this.DBHelper.getWritableDatabase();
         ContentValues initialValues = new ContentValues();
         initialValues.put(KEY_TYPE, Integer.valueOf(type));
@@ -119,7 +119,7 @@ public class BTDBAdapter {
         if (DBG) {
             Log.d(TAG, "insertOneRecord()");
         }
-        String phoneNumTrimed = record.getNumber().replaceAll("\\D+", BluetoothPbapClientPath.PBAP_ROOT_NAME);
+        String phoneNumTrimed = record.getNumber().replaceAll("[( )-]", BluetoothPbapClientPath.PBAP_ROOT_NAME);
         this.db = this.DBHelper.getWritableDatabase();
         ContentValues initialValues = new ContentValues();
         initialValues.put(KEY_TYPE, Integer.valueOf(record.getType()));
@@ -160,7 +160,7 @@ public class BTDBAdapter {
         }
         this.db = this.DBHelper.getReadableDatabase();
         List<PBRecord> records = new ArrayList();
-        Cursor cursor = this.db.rawQuery("select personname,phonenumber,calltime from PBAPTABLE where phonebooktype=? order by ordernum asc limit ?,?", new String[]{String.valueOf(type), String.valueOf(firstIdx), String.valueOf(maxResult)});
+        Cursor cursor = this.db.rawQuery("select personname,phonenumber,calltime from PBAPTABLE where phonebooktype=? order by personname asc limit ?,?", new String[]{String.valueOf(type), String.valueOf(firstIdx), String.valueOf(maxResult)});
         if (cursor != null) {
             if (cursor.getCount() > 0) {
                 cursor.moveToFirst();
