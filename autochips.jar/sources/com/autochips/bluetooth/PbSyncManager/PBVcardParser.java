@@ -272,6 +272,7 @@ public class PBVcardParser {
             }
         }
         if (iEncodeMethod == 1) {
+            swapNames();
             this.mFamily = UTF8_Decoding(this.mFamily);
             this.mGiven = UTF8_Decoding(this.mGiven);
             this.mAdditional = UTF8_Decoding(this.mAdditional);
@@ -279,6 +280,7 @@ public class PBVcardParser {
             this.mSuffix = UTF8_Decoding(this.mSuffix);
         } else if (iEncodeMethod == 0) {
             try {
+                swapNames();
                 this.mFamily = new String(this.mFamily.getBytes("ISO-8859-1"), "UTF-8");
                 this.mGiven = new String(this.mGiven.getBytes("ISO-8859-1"), "UTF-8");
                 this.mAdditional = new String(this.mAdditional.getBytes("ISO-8859-1"), "UTF-8");
@@ -319,4 +321,12 @@ public class PBVcardParser {
             this.mCallTime = "2008-01-01 00:00:00";
         }
     }
+    
+   private void swapNames() {
+      String tmp = this.mAdditional;
+      this.mAdditional = this.mGiven;
+      this.mGiven = tmp;
+      this.mAdditional = this.mAdditional.isEmpty() ? "" : this.mFamily.isEmpty() ? this.mAdditional : " " + this.mAdditional;
+      this.mGiven = this.mGiven.isEmpty() ? "" : !this.mFamily.isEmpty() || !this.mAdditional.isEmpty() ? " " + this.mGiven : this.mGiven; 
+   }
 }
